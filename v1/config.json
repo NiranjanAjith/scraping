@@ -1,0 +1,8 @@
+{
+    "pdf_dir": "pdfs",
+    "captcha_image_path": "captcha.png",
+    "all_csv": "all_pdfs.csv",
+    "good_csv": "good_pdfs.csv",
+    "bad_csv": "bad_pdfs.csv",
+    "search_url": "https://judgments.ecourts.gov.in/pdfsearch/"
+}
